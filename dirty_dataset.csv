@@ -1,0 +1,56 @@
+Customer_ID,Name,Email,Purchase_Amount,Purchase_Date,Product_Category,Quantity,Discount_Applied,Store_Location
+c001,John Doe,john.doe@email.com,2000,2024-01-01,Electronics,,no,New York
+C001,Jane Smith,jane.smith@email.com,100,01/02/2024,Clothing,2,True,Los Angeles
+C001,JANE SMITH,jane.smith@EMAIL.com,-10,2024-01-03,clothing,two,no,los angeles
+c001,Mike Brown,mikebrown@email.com,nan,2024-01-04,Furniture,two,False,Chicago
+C003,mike brown,,2000,01-05-2024,FURNITURE,two,True,CHICAGO
+C002,Samantha Lee,samantha@email.com,50,2024/01/06,Beauty,2,nan,Houston
+C002,Samanth Lee,sam.lee@email.com,2000,,Beuty,,yes,houston
+C002,John Doe,john.doe@email.com,-10,2024-01-01,Electronics,two,no,New York
+c001,Jane Smith,jane.smith@email.com,nan,01/02/2024,Clothing,5,yes,Los Angeles
+C001,JANE SMITH,jane.smith@EMAIL.com,100,2024-01-03,clothing,2,yes,los angeles
+c001,Mike Brown,mikebrown@email.com,-10,2024-01-04,Furniture,2,True,Chicago
+c001,mike brown,,-10,01-05-2024,FURNITURE,,yes,CHICAGO
+C005,Samantha Lee,samantha@email.com,50,2024/01/06,Beauty,2,nan,Houston
+C001,Samanth Lee,sam.lee@email.com,1000,,Beuty,2,yes,houston
+C005,John Doe,john.doe@email.com,nan,2024-01-01,Electronics,two,True,New York
+C004,Jane Smith,jane.smith@email.com,20,01/02/2024,Clothing,,nan,Los Angeles
+C001,JANE SMITH,jane.smith@EMAIL.com,-10,2024-01-03,clothing,two,False,los angeles
+C001,Mike Brown,mikebrown@email.com,1000,2024-01-04,Furniture,two,yes,Chicago
+C001,mike brown,,20,01-05-2024,FURNITURE,,True,CHICAGO
+C002,Samantha Lee,samantha@email.com,nan,2024/01/06,Beauty,1,False,Houston
+C002,Samanth Lee,sam.lee@email.com,10,,Beuty,two,False,houston
+C005,John Doe,john.doe@email.com,1000,2024-01-01,Electronics,5,no,New York
+C005,Jane Smith,jane.smith@email.com,N/A,01/02/2024,Clothing,5,nan,Los Angeles
+C001,JANE SMITH,jane.smith@EMAIL.com,10,2024-01-03,clothing,2,yes,los angeles
+C005,Mike Brown,mikebrown@email.com,50,2024-01-04,Furniture,5,True,Chicago
+C002,mike brown,,2000,01-05-2024,FURNITURE,2,no,CHICAGO
+c001,Samantha Lee,samantha@email.com,100,2024/01/06,Beauty,1,nan,Houston
+c001,Samanth Lee,sam.lee@email.com,N/A,,Beuty,,no,houston
+c001,John Doe,john.doe@email.com,50,2024-01-01,Electronics,,nan,New York
+C005,Jane Smith,jane.smith@email.com,nan,01/02/2024,Clothing,,nan,Los Angeles
+C004,JANE SMITH,jane.smith@EMAIL.com,50,2024-01-03,clothing,5,yes,los angeles
+C002,Mike Brown,mikebrown@email.com,2000,2024-01-04,Furniture,1,nan,Chicago
+C004,mike brown,,nan,01-05-2024,FURNITURE,5,no,CHICAGO
+C005,Samantha Lee,samantha@email.com,N/A,2024/01/06,Beauty,5,nan,Houston
+C003,Samanth Lee,sam.lee@email.com,2000,,Beuty,1,yes,houston
+c002,John Doe,john.doe@email.com,20,2024-01-01,Electronics,1,yes,New York
+c002,Jane Smith,jane.smith@email.com,100,01/02/2024,Clothing,1,no,Los Angeles
+C001,JANE SMITH,jane.smith@EMAIL.com,N/A,2024-01-03,clothing,1,False,los angeles
+c002,Mike Brown,mikebrown@email.com,20,2024-01-04,Furniture,,False,Chicago
+c002,mike brown,,N/A,01-05-2024,FURNITURE,3,nan,CHICAGO
+C002,Samantha Lee,samantha@email.com,nan,2024/01/06,Beauty,3,True,Houston
+c001,Samanth Lee,sam.lee@email.com,20,,Beuty,1,nan,houston
+C004,John Doe,john.doe@email.com,100,2024-01-01,Electronics,3,no,New York
+C003,Jane Smith,jane.smith@email.com,2000,01/02/2024,Clothing,3,no,Los Angeles
+C003,JANE SMITH,jane.smith@EMAIL.com,-10,2024-01-03,clothing,1,no,los angeles
+C002,Mike Brown,mikebrown@email.com,50,2024-01-04,Furniture,3,no,Chicago
+C002,mike brown,,10,01-05-2024,FURNITURE,5,no,CHICAGO
+c002,Samantha Lee,samantha@email.com,100,2024/01/06,Beauty,2,yes,Houston
+C003,Samanth Lee,sam.lee@email.com,20,,Beuty,2,False,houston
+C001,James Bond,007@spy.agency,-10,2024-01-15,Toys,1,no,London
+c001,John Doe,john.doe@email.com,2000,2024-01-01,Electronics,,no,New York
+C001,Jane Smith,jane.smith@email.com,100,01/02/2024,Clothing,2,True,Los Angeles
+C001,JANE SMITH,jane.smith@EMAIL.com,-10,2024-01-03,clothing,two,no,los angeles
+c001,Mike Brown,mikebrown@email.com,nan,2024-01-04,Furniture,two,False,Chicago
+C003,mike brown,,2000,01-05-2024,FURNITURE,two,True,CHICAGO
