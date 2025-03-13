@@ -1,56 +1,56 @@
-,Customer_ID,Name,Email,Purchase_Amount,Purchase_Date,Product_Category,Quantity,Discount_Applied,Store_Location
-0,c001,John Doe,john.doe@email.com,2000.0,2024-01-01,ELECTRONICS,2.42,no,NEW YORK
-1,C001,Jane Smith,jane.smith@email.com,100.0,01/02/2024,CLOTHING,2.0,True,LOS ANGELES
-2,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,no,LOS ANGELES
-3,c001,Mike Brown,mikebrown@email.com,640.31,2024-01-04,FURNITURE,2.0,False,CHICAGO
-4,C003,Mike Brown,mike.brown@hotmail.com,2000.0,01-05-2024,FURNITURE,2.0,True,CHICAGO
-5,C002,Samantha Lee,samantha@email.com,50.0,2024/01/06,BEAUTY,2.0,,HOUSTON
-6,C002,Samanth Lee,sam.lee@email.com,2000.0,,BEUTY,2.42,yes,HOUSTON
-7,C002,John Doe,john.doe@email.com,10.0,2024-01-01,ELECTRONICS,2.0,no,NEW YORK
-8,c001,Jane Smith,jane.smith@email.com,640.31,01/02/2024,CLOTHING,5.0,yes,LOS ANGELES
-9,C001,Jane Smith,jane.smith@email.com,100.0,2024-01-03,CLOTHING,2.0,yes,LOS ANGELES
-10,c001,Mike Brown,mikebrown@email.com,10.0,2024-01-04,FURNITURE,2.0,True,CHICAGO
-11,c001,Mike Brown,mike.brown@hotmail.com,10.0,01-05-2024,FURNITURE,2.42,yes,CHICAGO
-12,C005,Samantha Lee,samantha@email.com,50.0,2024/01/06,BEAUTY,2.0,,HOUSTON
-13,C001,Samanth Lee,sam.lee@email.com,1000.0,,BEUTY,2.0,yes,HOUSTON
-14,C005,John Doe,john.doe@email.com,640.31,2024-01-01,ELECTRONICS,2.0,True,NEW YORK
-15,C004,Jane Smith,jane.smith@email.com,20.0,01/02/2024,CLOTHING,2.42,,LOS ANGELES
-16,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,False,LOS ANGELES
-17,C001,Mike Brown,mikebrown@email.com,1000.0,2024-01-04,FURNITURE,2.0,yes,CHICAGO
-18,C001,Mike Brown,mike.brown@hotmail.com,20.0,01-05-2024,FURNITURE,2.42,True,CHICAGO
-19,C002,Samantha Lee,samantha@email.com,640.31,2024/01/06,BEAUTY,1.0,False,HOUSTON
-20,C002,Samanth Lee,sam.lee@email.com,10.0,,BEUTY,2.0,False,HOUSTON
-21,C005,John Doe,john.doe@email.com,1000.0,2024-01-01,ELECTRONICS,5.0,no,NEW YORK
-22,C005,Jane Smith,jane.smith@email.com,640.31,01/02/2024,CLOTHING,5.0,,LOS ANGELES
-23,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,yes,LOS ANGELES
-24,C005,Mike Brown,mikebrown@email.com,50.0,2024-01-04,FURNITURE,5.0,True,CHICAGO
-25,C002,Mike Brown,mike.brown@hotmail.com,2000.0,01-05-2024,FURNITURE,2.0,no,CHICAGO
-26,c001,Samantha Lee,samantha@email.com,100.0,2024/01/06,BEAUTY,1.0,,HOUSTON
-27,c001,Samanth Lee,sam.lee@email.com,640.31,,BEUTY,2.42,no,HOUSTON
-28,c001,John Doe,john.doe@email.com,50.0,2024-01-01,ELECTRONICS,2.42,,NEW YORK
-29,C005,Jane Smith,jane.smith@email.com,640.31,01/02/2024,CLOTHING,2.42,,LOS ANGELES
-30,C004,Jane Smith,jane.smith@email.com,50.0,2024-01-03,CLOTHING,5.0,yes,LOS ANGELES
-31,C002,Mike Brown,mikebrown@email.com,2000.0,2024-01-04,FURNITURE,1.0,,CHICAGO
-32,C004,Mike Brown,mike.brown@hotmail.com,640.31,01-05-2024,FURNITURE,5.0,no,CHICAGO
-33,C005,Samantha Lee,samantha@email.com,640.31,2024/01/06,BEAUTY,5.0,,HOUSTON
-34,C003,Samanth Lee,sam.lee@email.com,2000.0,,BEUTY,1.0,yes,HOUSTON
-35,c002,John Doe,john.doe@email.com,20.0,2024-01-01,ELECTRONICS,1.0,yes,NEW YORK
-36,c002,Jane Smith,jane.smith@email.com,100.0,01/02/2024,CLOTHING,1.0,no,LOS ANGELES
-37,C001,Jane Smith,jane.smith@email.com,640.31,2024-01-03,CLOTHING,1.0,False,LOS ANGELES
-38,c002,Mike Brown,mikebrown@email.com,20.0,2024-01-04,FURNITURE,2.42,False,CHICAGO
-39,c002,Mike Brown,mike.brown@hotmail.com,640.31,01-05-2024,FURNITURE,3.0,,CHICAGO
-40,C002,Samantha Lee,samantha@email.com,640.31,2024/01/06,BEAUTY,3.0,True,HOUSTON
-41,c001,Samanth Lee,sam.lee@email.com,20.0,,BEUTY,1.0,,HOUSTON
-42,C004,John Doe,john.doe@email.com,100.0,2024-01-01,ELECTRONICS,3.0,no,NEW YORK
-43,C003,Jane Smith,jane.smith@email.com,2000.0,01/02/2024,CLOTHING,3.0,no,LOS ANGELES
-44,C003,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,1.0,no,LOS ANGELES
-45,C002,Mike Brown,mikebrown@email.com,50.0,2024-01-04,FURNITURE,3.0,no,CHICAGO
-46,C002,Mike Brown,mike.brown@hotmail.com,10.0,01-05-2024,FURNITURE,5.0,no,CHICAGO
-47,c002,Samantha Lee,samantha@email.com,100.0,2024/01/06,BEAUTY,2.0,yes,HOUSTON
-48,C003,Samanth Lee,sam.lee@email.com,20.0,,BEUTY,2.0,False,HOUSTON
-49,C001,James Bond,007@spy.agency,10.0,2024-01-15,TOYS,1.0,no,LONDON
-50,c001,John Doe,john.doe@email.com,2000.0,2024-01-01,ELECTRONICS,2.42,no,NEW YORK
-51,C001,Jane Smith,jane.smith@email.com,100.0,01/02/2024,CLOTHING,2.0,True,LOS ANGELES
-52,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,no,LOS ANGELES
-53,c001,Mike Brown,mikebrown@email.com,640.31,2024-01-04,FURNITURE,2.0,False,CHICAGO
-54,C003,Mike Brown,mike.brown@hotmail.com,2000.0,01-05-2024,FURNITURE,2.0,True,CHICAGO
+,Customer_ID,Name,Email,Purchase_Amount,Purchase_Date,Product_Category,Quantity,Discount_Applied,Store_Location,Year,Month,Day
+0,c001,John Doe,john.doe@email.com,2000.0,2024-01-01,ELECTRONICS,2.42,No,NEW YORK,2024,01,01
+1,C001,Jane Smith,jane.smith@email.com,100.0,2024-02-01,CLOTHING,2.0,Yes,LOS ANGELES,2024,02,01
+2,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,No,LOS ANGELES,2024,01,03
+3,c001,Mike Brown,mikebrown@email.com,640.31,2024-01-04,FURNITURE,2.0,No,CHICAGO,2024,01,04
+4,C003,Mike Brown,mike.brown@hotmail.com,2000.0,2024-05-01,FURNITURE,2.0,Yes,CHICAGO,2024,05,01
+5,C002,Samantha Lee,samantha@email.com,50.0,2024-01-06,BEAUTY,2.0,No,HOUSTON,2024,01,06
+6,C002,Samanth Lee,sam.lee@email.com,2000.0,2024-01-28,BEUTY,2.42,Yes,HOUSTON,2024,01,28
+7,C002,John Doe,john.doe@email.com,10.0,2024-01-01,ELECTRONICS,2.0,No,NEW YORK,2024,01,01
+8,c001,Jane Smith,jane.smith@email.com,640.31,2024-02-01,CLOTHING,5.0,Yes,LOS ANGELES,2024,02,01
+9,C001,Jane Smith,jane.smith@email.com,100.0,2024-01-03,CLOTHING,2.0,Yes,LOS ANGELES,2024,01,03
+10,c001,Mike Brown,mikebrown@email.com,10.0,2024-01-04,FURNITURE,2.0,Yes,CHICAGO,2024,01,04
+11,c001,Mike Brown,mike.brown@hotmail.com,10.0,2024-05-01,FURNITURE,2.42,Yes,CHICAGO,2024,05,01
+12,C005,Samantha Lee,samantha@email.com,50.0,2024-01-06,BEAUTY,2.0,No,HOUSTON,2024,01,06
+13,C001,Samanth Lee,sam.lee@email.com,1000.0,2024-01-28,BEUTY,2.0,Yes,HOUSTON,2024,01,28
+14,C005,John Doe,john.doe@email.com,640.31,2024-01-01,ELECTRONICS,2.0,Yes,NEW YORK,2024,01,01
+15,C004,Jane Smith,jane.smith@email.com,20.0,2024-02-01,CLOTHING,2.42,No,LOS ANGELES,2024,02,01
+16,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,No,LOS ANGELES,2024,01,03
+17,C001,Mike Brown,mikebrown@email.com,1000.0,2024-01-04,FURNITURE,2.0,Yes,CHICAGO,2024,01,04
+18,C001,Mike Brown,mike.brown@hotmail.com,20.0,2024-05-01,FURNITURE,2.42,Yes,CHICAGO,2024,05,01
+19,C002,Samantha Lee,samantha@email.com,640.31,2024-01-06,BEAUTY,1.0,No,HOUSTON,2024,01,06
+20,C002,Samanth Lee,sam.lee@email.com,10.0,2024-01-28,BEUTY,2.0,No,HOUSTON,2024,01,28
+21,C005,John Doe,john.doe@email.com,1000.0,2024-01-01,ELECTRONICS,5.0,No,NEW YORK,2024,01,01
+22,C005,Jane Smith,jane.smith@email.com,640.31,2024-02-01,CLOTHING,5.0,No,LOS ANGELES,2024,02,01
+23,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,Yes,LOS ANGELES,2024,01,03
+24,C005,Mike Brown,mikebrown@email.com,50.0,2024-01-04,FURNITURE,5.0,Yes,CHICAGO,2024,01,04
+25,C002,Mike Brown,mike.brown@hotmail.com,2000.0,2024-05-01,FURNITURE,2.0,No,CHICAGO,2024,05,01
+26,c001,Samantha Lee,samantha@email.com,100.0,2024-01-06,BEAUTY,1.0,No,HOUSTON,2024,01,06
+27,c001,Samanth Lee,sam.lee@email.com,640.31,2024-01-28,BEUTY,2.42,No,HOUSTON,2024,01,28
+28,c001,John Doe,john.doe@email.com,50.0,2024-01-01,ELECTRONICS,2.42,No,NEW YORK,2024,01,01
+29,C005,Jane Smith,jane.smith@email.com,640.31,2024-02-01,CLOTHING,2.42,No,LOS ANGELES,2024,02,01
+30,C004,Jane Smith,jane.smith@email.com,50.0,2024-01-03,CLOTHING,5.0,Yes,LOS ANGELES,2024,01,03
+31,C002,Mike Brown,mikebrown@email.com,2000.0,2024-01-04,FURNITURE,1.0,No,CHICAGO,2024,01,04
+32,C004,Mike Brown,mike.brown@hotmail.com,640.31,2024-05-01,FURNITURE,5.0,No,CHICAGO,2024,05,01
+33,C005,Samantha Lee,samantha@email.com,640.31,2024-01-06,BEAUTY,5.0,No,HOUSTON,2024,01,06
+34,C003,Samanth Lee,sam.lee@email.com,2000.0,2024-01-28,BEUTY,1.0,Yes,HOUSTON,2024,01,28
+35,c002,John Doe,john.doe@email.com,20.0,2024-01-01,ELECTRONICS,1.0,Yes,NEW YORK,2024,01,01
+36,c002,Jane Smith,jane.smith@email.com,100.0,2024-02-01,CLOTHING,1.0,No,LOS ANGELES,2024,02,01
+37,C001,Jane Smith,jane.smith@email.com,640.31,2024-01-03,CLOTHING,1.0,No,LOS ANGELES,2024,01,03
+38,c002,Mike Brown,mikebrown@email.com,20.0,2024-01-04,FURNITURE,2.42,No,CHICAGO,2024,01,04
+39,c002,Mike Brown,mike.brown@hotmail.com,640.31,2024-05-01,FURNITURE,3.0,No,CHICAGO,2024,05,01
+40,C002,Samantha Lee,samantha@email.com,640.31,2024-01-06,BEAUTY,3.0,Yes,HOUSTON,2024,01,06
+41,c001,Samanth Lee,sam.lee@email.com,20.0,2024-01-28,BEUTY,1.0,No,HOUSTON,2024,01,28
+42,C004,John Doe,john.doe@email.com,100.0,2024-01-01,ELECTRONICS,3.0,No,NEW YORK,2024,01,01
+43,C003,Jane Smith,jane.smith@email.com,2000.0,2024-02-01,CLOTHING,3.0,No,LOS ANGELES,2024,02,01
+44,C003,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,1.0,No,LOS ANGELES,2024,01,03
+45,C002,Mike Brown,mikebrown@email.com,50.0,2024-01-04,FURNITURE,3.0,No,CHICAGO,2024,01,04
+46,C002,Mike Brown,mike.brown@hotmail.com,10.0,2024-05-01,FURNITURE,5.0,No,CHICAGO,2024,05,01
+47,c002,Samantha Lee,samantha@email.com,100.0,2024-01-06,BEAUTY,2.0,Yes,HOUSTON,2024,01,06
+48,C003,Samanth Lee,sam.lee@email.com,20.0,2024-01-28,BEUTY,2.0,No,HOUSTON,2024,01,28
+49,C001,James Bond,007@spy.agency,10.0,2024-01-15,TOYS,1.0,No,LONDON,2024,01,15
+50,c001,John Doe,john.doe@email.com,2000.0,2024-01-01,ELECTRONICS,2.42,No,NEW YORK,2024,01,01
+51,C001,Jane Smith,jane.smith@email.com,100.0,2024-02-01,CLOTHING,2.0,Yes,LOS ANGELES,2024,02,01
+52,C001,Jane Smith,jane.smith@email.com,10.0,2024-01-03,CLOTHING,2.0,No,LOS ANGELES,2024,01,03
+53,c001,Mike Brown,mikebrown@email.com,640.31,2024-01-04,FURNITURE,2.0,No,CHICAGO,2024,01,04
+54,C003,Mike Brown,mike.brown@hotmail.com,2000.0,2024-05-01,FURNITURE,2.0,Yes,CHICAGO,2024,05,01
